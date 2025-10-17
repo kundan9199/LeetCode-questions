@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan9199/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
