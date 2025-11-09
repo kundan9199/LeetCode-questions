@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kundan9199/LeetCode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Simulation
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
+| [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
 |  |
