@@ -87,4 +87,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
