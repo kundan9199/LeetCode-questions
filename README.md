@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kundan9199/LeetCode-questions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kundan9199/LeetCode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
