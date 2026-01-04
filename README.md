@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
+| [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kundan9199/LeetCode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
