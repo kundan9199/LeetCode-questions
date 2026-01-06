@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan9199/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kundan9199/LeetCode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan9199/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kundan9199/LeetCode-questions/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -50,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kundan9199/LeetCode-questions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Two Pointers
 |  |
