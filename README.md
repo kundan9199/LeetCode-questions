@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kundan9199/LeetCode-questions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
+| [0459-repeated-substring-pattern](https://github.com/kundan9199/LeetCode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -158,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kundan9199/LeetCode-questions/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
