@@ -191,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/kundan9199/LeetCode-questions/tree/master/3454-separate-squares-ii) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/kundan9199/LeetCode-questions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
