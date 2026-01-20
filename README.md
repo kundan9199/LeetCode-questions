@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundan9199/LeetCode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/kundan9199/LeetCode-questions/tree/master/3454-separate-squares-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kundan9199/LeetCode-questions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
 |  |
 | ------- |
