@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kundan9199/LeetCode-questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kundan9199/LeetCode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kundan9199/LeetCode-questions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/kundan9199/LeetCode-questions/tree/master/0141-linked-list-cycle) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3454-separate-squares-ii](https://github.com/kundan9199/LeetCode-questions/tree/master/3454-separate-squares-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kundan9199/LeetCode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kundan9199/LeetCode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Sorting
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -203,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/kundan9199/LeetCode-questions/tree/master/0196-delete-duplicate-emails) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
