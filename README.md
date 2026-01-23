@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Number Theory
 |  |
 | ------- |
