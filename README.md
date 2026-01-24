@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0263-ugly-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kundan9199/LeetCode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
