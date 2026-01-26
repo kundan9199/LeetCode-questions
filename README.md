@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
+| [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Bit Manipulation
 |  |
