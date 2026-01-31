@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kundan9199/LeetCode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kundan9199/LeetCode-questions/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3454-separate-squares-ii](https://github.com/kundan9199/LeetCode-questions/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
