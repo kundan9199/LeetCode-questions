@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundan9199/LeetCode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/kundan9199/LeetCode-questions/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Stack
 |  |
 | ------- |
