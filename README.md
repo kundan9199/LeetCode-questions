@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan9199/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/kundan9199/LeetCode-questions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/kundan9199/LeetCode-questions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kundan9199/LeetCode-questions/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kundan9199/LeetCode-questions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kundan9199/LeetCode-questions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -215,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/kundan9199/LeetCode-questions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kundan9199/LeetCode-questions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3454-separate-squares-ii](https://github.com/kundan9199/LeetCode-questions/tree/master/3454-separate-squares-ii) |
