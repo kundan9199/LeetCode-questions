@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -252,8 +256,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/kundan9199/LeetCode-questions/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
