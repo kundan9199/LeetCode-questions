@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kundan9199/LeetCode-questions/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0693-binary-number-with-alternating-bits) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Two Pointers
