@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kundan9199/LeetCode-questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kundan9199/LeetCode-questions/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
