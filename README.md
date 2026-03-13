@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kundan9199/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/kundan9199/LeetCode-questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0039-combination-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kundan9199/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundan9199/LeetCode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/kundan9199/LeetCode-questions/tree/master/0141-linked-list-cycle) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kundan9199/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
