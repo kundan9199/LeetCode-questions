@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/kundan9199/LeetCode-questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0039-combination-sum) |
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kundan9199/LeetCode-questions/tree/master/0169-majority-element) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 ## Greedy
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kundan9199/LeetCode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
