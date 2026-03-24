@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kundan9199/LeetCode-questions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/kundan9199/LeetCode-questions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kundan9199/LeetCode-questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/kundan9199/LeetCode-questions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/kundan9199/LeetCode-questions/tree/master/0058-length-of-last-word) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kundan9199/LeetCode-questions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/kundan9199/LeetCode-questions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/kundan9199/LeetCode-questions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/kundan9199/LeetCode-questions/tree/master/0039-combination-sum) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kundan9199/LeetCode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/kundan9199/LeetCode-questions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
