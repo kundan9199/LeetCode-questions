@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundan9199/LeetCode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundan9199/LeetCode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundan9199/LeetCode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1716-calculate-money-in-leetcode-bank](https://github.com/kundan9199/LeetCode-questions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/kundan9199/LeetCode-questions/tree/master/1925-count-square-sum-triples) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundan9199/LeetCode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/kundan9199/LeetCode-questions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/kundan9199/LeetCode-questions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
 | [2288-count-operations-to-obtain-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundan9199/LeetCode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundan9199/LeetCode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/kundan9199/LeetCode-questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kundan9199/LeetCode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Dynamic Programming
 |  |
