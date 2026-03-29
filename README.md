@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kundan9199/LeetCode-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
