@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/kundan9199/LeetCode-questions/tree/master/0461-hamming-distance) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kundan9199/LeetCode-questions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
