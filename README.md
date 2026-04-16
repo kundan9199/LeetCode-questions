@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/kundan9199/LeetCode-questions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kundan9199/LeetCode-questions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kundan9199/LeetCode-questions/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/kundan9199/LeetCode-questions/tree/master/0089-gray-code) |
 | [0258-add-digits](https://github.com/kundan9199/LeetCode-questions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0263-ugly-number) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/kundan9199/LeetCode-questions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 ## Greedy
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kundan9199/LeetCode-questions/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kundan9199/LeetCode-questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
