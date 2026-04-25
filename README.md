@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kundan9199/LeetCode-questions/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
+| [0434-number-of-segments-in-a-string](https://github.com/kundan9199/LeetCode-questions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kundan9199/LeetCode-questions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0657-robot-return-to-origin](https://github.com/kundan9199/LeetCode-questions/tree/master/0657-robot-return-to-origin) |
