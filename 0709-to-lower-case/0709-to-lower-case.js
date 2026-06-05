@@ -3,6 +3,6 @@
  * @return {string}
  */
 var toLowerCase = function(s) {
-    const lowerText = s.toLowerCase()
+    var lowerText = s.toLowerCase()
         return lowerText;
 };
