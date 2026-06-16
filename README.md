@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kundan9199/LeetCode-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3612-process-string-with-special-operations-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3354-make-array-elements-equal-to-zero](https://github.com/kundan9199/LeetCode-questions/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3379-transformed-array](https://github.com/kundan9199/LeetCode-questions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3612-process-string-with-special-operations-i](https://github.com/kundan9199/LeetCode-questions/tree/master/3612-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
