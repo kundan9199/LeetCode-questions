@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/kundan9199/LeetCode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundan9199/LeetCode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kundan9199/LeetCode-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/kundan9199/LeetCode-questions/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kundan9199/LeetCode-questions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kundan9199/LeetCode-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/kundan9199/LeetCode-questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundan9199/LeetCode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundan9199/LeetCode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kundan9199/LeetCode-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
