@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kundan9199/LeetCode-questions/tree/master/0485-max-consecutive-ones) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/kundan9199/LeetCode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kundan9199/LeetCode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/0389-find-the-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/kundan9199/LeetCode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/kundan9199/LeetCode-questions/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kundan9199/LeetCode-questions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kundan9199/LeetCode-questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kundan9199/LeetCode-questions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
+| [0977-squares-of-a-sorted-array](https://github.com/kundan9199/LeetCode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [2540-minimum-common-value](https://github.com/kundan9199/LeetCode-questions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/kundan9199/LeetCode-questions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
