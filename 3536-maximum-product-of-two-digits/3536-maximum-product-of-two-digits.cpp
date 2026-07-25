@@ -2,12 +2,10 @@ class Solution {
 public:
     int maxProduct(int n) {
         vector<int> digits;
-        if(n<0){
-            digits.push_back(0);
-
-        }
+        // if(n<0){
+        //     digits.push_back(0);
+        // }
         n = abs(n);
-      
     while (n > 0) {
         int last_digit = n % 10;   // 1. Get the last digit
         digits.push_back(last_digit); // 2. Store it
