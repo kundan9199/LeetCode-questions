@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/kundan9199/LeetCode-questions/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundan9199/LeetCode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/kundan9199/LeetCode-questions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/kundan9199/LeetCode-questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/kundan9199/LeetCode-questions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kundan9199/LeetCode-questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundan9199/LeetCode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kundan9199/LeetCode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundan9199/LeetCode-questions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/kundan9199/LeetCode-questions/tree/master/1518-water-bottles) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/kundan9199/LeetCode-questions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -422,4 +425,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kundan9199/LeetCode-questions/tree/master/0225-implement-stack-using-queues) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
