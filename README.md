@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kundan9199/LeetCode-questions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundan9199/LeetCode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/kundan9199/LeetCode-questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kundan9199/LeetCode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kundan9199/LeetCode-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/kundan9199/LeetCode-questions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/kundan9199/LeetCode-questions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kundan9199/LeetCode-questions/tree/master/0011-container-with-most-water) |
 | [1382-balance-a-binary-search-tree](https://github.com/kundan9199/LeetCode-questions/tree/master/1382-balance-a-binary-search-tree) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kundan9199/LeetCode-questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/kundan9199/LeetCode-questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/kundan9199/LeetCode-questions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Counting
