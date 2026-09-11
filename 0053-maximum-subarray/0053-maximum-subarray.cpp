@@ -10,6 +10,6 @@ public:
                 curSum = 0;
             }
         }
-            return maxi;
+        return maxi;
     }
 };
