@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/kundan9199/LeetCode-questions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kundan9199/LeetCode-questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kundan9199/LeetCode-questions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/kundan9199/LeetCode-questions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/kundan9199/LeetCode-questions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/kundan9199/LeetCode-questions/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/kundan9199/LeetCode-questions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Binary Search
 |  |
