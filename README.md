@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kundan9199/LeetCode-questions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/kundan9199/LeetCode-questions/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/kundan9199/LeetCode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/kundan9199/LeetCode-questions/tree/master/1189-maximum-number-of-balloons) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/kundan9199/LeetCode-questions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kundan9199/LeetCode-questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kundan9199/LeetCode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kundan9199/LeetCode-questions/tree/master/0225-implement-stack-using-queues) |
+| [1021-remove-outermost-parentheses](https://github.com/kundan9199/LeetCode-questions/tree/master/1021-remove-outermost-parentheses) |
 ## Number Theory
 |  |
 | ------- |
@@ -466,4 +468,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kundan9199/LeetCode-questions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/kundan9199/LeetCode-questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
