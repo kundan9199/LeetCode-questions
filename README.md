@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/kundan9199/LeetCode-questions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kundan9199/LeetCode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/kundan9199/LeetCode-questions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kundan9199/LeetCode-questions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/kundan9199/LeetCode-questions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kundan9199/LeetCode-questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kundan9199/LeetCode-questions/tree/master/0169-majority-element) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kundan9199/LeetCode-questions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/kundan9199/LeetCode-questions/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/kundan9199/LeetCode-questions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/kundan9199/LeetCode-questions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/kundan9199/LeetCode-questions/tree/master/0474-ones-and-zeroes) |
 | [0877-stone-game](https://github.com/kundan9199/LeetCode-questions/tree/master/0877-stone-game) |
